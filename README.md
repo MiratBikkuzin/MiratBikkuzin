@@ -12,7 +12,7 @@ I've been learning to code for 12 months. I started with Python, but have really
 
 * 🌍  I'm based in Ufa
 * ✉️  You can contact me at [https://t.me/futap35](mailto:https://t.me/futap35)
-* 🚀  I'm currently working on [Telegram Book Bot](http://github.com/MiratBikkuzin/BookBot)
+* 🚀  I'm currently working on private repository [Telegram Book Bot](http://github.com/MiratBikkuzin/BookBot)
 * 🧠  I'm learning Docker, Redis, RabbitMQ, aiogram
 * 🤝  I'm open to collaborating on interesting backend projects
 * ⚡  I'm school boy
