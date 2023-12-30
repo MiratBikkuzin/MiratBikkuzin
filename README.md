@@ -32,11 +32,9 @@ src="https://img.shields.io/github/followers/MiratBikkuzin?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MiratBikkuzin"><img src="https://github-readme-stats.vercel.app/api?username=MiratBikkuzin&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=000000&icon_color=gold&bg_color=ffffff&hide_border=true&show_icons=true" alt="MiratBikkuzin's GitHub stats" /></a>
+<a href="http://www.github.com/MiratBikkuzin"><img src="https://github-readme-stats.vercel.app/api?username=MiratBikkuzin&show_icons=true&hide=prs,issues,&count_private=true&theme=tokyonight" alt="MiratBikkuzin's GitHub stats" /></a>
 
-<a href="http://www.github.com/MiratBikkuzin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MiratBikkuzin&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="https://github.com/MiratBikkuzin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiratBikkuzin&langs_count=10&title_color=0891b2&text_color=000000&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/MiratBikkuzin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MiratBikkuzin&hide_border=true&theme=tokyonight" /></a>
 
 <b>My Codewars Stats</b>
 
