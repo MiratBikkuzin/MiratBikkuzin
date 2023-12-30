@@ -31,6 +31,10 @@ src="https://img.shields.io/github/followers/MiratBikkuzin?logo=github&style=for
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+![Mirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiratBikkuzin&hide=contribs,prs)
+
 <b>My CodeWars Stats</b>
 
 ![Codewars](https://github.r2v.ch/codewars?user=pymir&name=true)
