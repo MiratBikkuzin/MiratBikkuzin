@@ -2,11 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 Backend Python Developer
-========================
 
-![Codewars](https://github.r2v.ch/codewars?user=pymir&name=true)
-
-----------------------------------------------------------------
+------------------------
 
 I've been learning to code for 12 months. I started with Python, but have really found a passion backend development
 
@@ -34,6 +31,6 @@ src="https://img.shields.io/github/followers/MiratBikkuzin?logo=github&style=for
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My CodeWars Stats</b>
 
-<a href="https://github.com/MiratBikkuzin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiratBikkuzin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Codewars](https://github.r2v.ch/codewars?user=pymir&name=true)
