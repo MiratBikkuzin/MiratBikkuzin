@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Python Developer
 ------------------------
 
-I've been learning to code for 12 months. I started with Python, but have really found a passion for backend development.
+I've been learning to code for 1 year. I started with Python, but have really found a passion for backend development.
 
 * 🌍  I'm based in Ufa
 * ✉️  You can contact me at [https://t.me/futap35](mailto:https://t.me/futap35)
