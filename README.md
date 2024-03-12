@@ -9,7 +9,7 @@ I've been learning to code for 1 year. I started with Python, but have really fo
 * 🌍  I'm based in Ufa
 * ✉️  You can contact me at [https://t.me/futap35](mailto:https://t.me/futap35)
 * 🚀  I'm currently working on private project [Telegram Book Bot](http://github.com/MiratBikkuzin/BookBot)
-* 🧠  I'm learning Docker, redis, RabbitMQ, aiogram
+* 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on interesting backend projects
 * ⚡  I'm school boy
 
